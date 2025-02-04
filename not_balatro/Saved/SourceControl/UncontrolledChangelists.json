@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/bchar/Perforce/bharris_DESKTOP-Q3L3TUC_7075/not_balatro/Content/player_ui/player_ui.uasset",
+				"C:/Users/bchar/Perforce/bharris_DESKTOP-Q3L3TUC_7075/not_balatro/Content/player_ui/turn_indicator.uasset",
+				"C:/Users/bchar/Perforce/bharris_DESKTOP-Q3L3TUC_7075/not_balatro/Content/player_ui/Main_Menu.uasset",
+				"C:/Users/bchar/Perforce/bharris_DESKTOP-Q3L3TUC_7075/not_balatro/Content/NewBlueprint.uasset",
+				"C:/Users/bchar/Perforce/bharris_DESKTOP-Q3L3TUC_7075/not_balatro/Content/blueprint/testingperforce.uasset"
+			]
+		}
+	]
+}
